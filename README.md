@@ -1,9 +1,5 @@
 # About Me
 
-**claudiocldrn/claudiocldrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on teaching myself the principles of DevOps, but also coding by coding a text based Genshin Wish Simulator
 - 🌱 I’m currently learning how to code in Python (hiss hiss and whatnot), as well as the principles of the CI/CD pipeline
 - 💬 Ask me about DevOps principles. I'd love to have a chat about it
